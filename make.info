@@ -1,0 +1,1 @@
+./configure --enable-libada --enable-libssp --enable-libvtv --enable-libmpx --enable-libhsail-rt --enable-liboffloadmic=host  --enable-gold=yes  --enable-ld=yes --enable-libquadmath=yes --enable-lto   --enable-objc-gc     --enable-vtable-verify     --enable-werror    --enable-host-shared --prefix=/usr/local/Cellar/binutils-gdb/2.29
